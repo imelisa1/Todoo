@@ -4,7 +4,8 @@
  You can add your tasks, remove them one by one or all of them at a time.
 
  
-<img src="Screenshot_1710548254.png" height="500">
-<img src="Screenshot_1710548298.png" height="500">
-<img src="Screenshot_1710548303.png" height="500">
+<img src="Screenshot_1710548254.png" height="350">
+<img src="Screenshot_1710548298.png" height="350">
+<img src="Screenshot_1710548303.png" height="350">
+
 
