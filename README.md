@@ -5,3 +5,5 @@
 
  
 <img src="src/screenshots/Screenshot_1710548254.png" height="800">
+<img src="src/screenshots/Screenshot_1710548298.png" height="800">
+<img src="src/screenshots/Screenshot_1710548303.png" height="800">
